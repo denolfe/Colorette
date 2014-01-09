@@ -110,5 +110,5 @@ Space::
    Gosub, ColorPicked
 return
 
-#Include lib/ColorFunctions.ahk
-#Include lib/Cursors.ahk
+#Include %A_ScriptDir%/lib/Cursors.ahk
+#Include %A_ScriptDir%/lib/ColorFunctions.ahk
