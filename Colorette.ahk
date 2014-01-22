@@ -1,19 +1,3 @@
-; ******* General ******* 
-; COLORETTE
-ScriptVersion := 1.01
-; Script created using Autohotkey (http://www.autohotkey.com)
-; SVN handling by Tortoise SVN ;)
-; AHK version: AHK_L (www.autohotkey.net/~Lexikos/AutoHotkey_L)
-; Library dependancies:
-; - DLG.ahk for color Dialogue
-;
-; AUTHOR: sumon @ the Autohotkey forums, (simon.stralberg (@) gmail.com)
-; License: sumon's Std License (see my forum signature)
-; 
-; Thanks to: The Naked General _ jamixzol@gmail.com for his "Flashy and impractical color picker" which inspired me to this. Some of his comments may remain.
-; || To-do ||
-; Settings?
-; Smoother solution for the hotkeys
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
